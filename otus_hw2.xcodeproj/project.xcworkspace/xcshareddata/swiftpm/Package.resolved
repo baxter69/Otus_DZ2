@@ -1,0 +1,15 @@
+{
+  "originHash" : "8c36f5ee58b44fdcc6036559fbf07bb94c3df5924a6afc147d2b22df9e0db55d",
+  "pins" : [
+    {
+      "identity" : "suinavigation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ozontech/SUINavigation",
+      "state" : {
+        "revision" : "50dcb8e7aadd7bca5c57a2bb5550691a6a6aac3c",
+        "version" : "1.11.0"
+      }
+    }
+  ],
+  "version" : 3
+}
